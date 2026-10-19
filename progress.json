@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-19T04:52:51.427Z",
+  "items": {
+    "problem:632": {
+      "kind": "problem",
+      "id": "632",
+      "title": "Alpha-Beta Pruning Implementation",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/632",
+      "path": "problems/0632-alpha-beta-pruning-implementation",
+      "first_solved_at": "2026-10-19T04:52:45.891Z",
+      "last_pushed_at": "2026-10-19T04:52:45.891Z",
+      "language": "python",
+      "lines": 51
+    }
+  }
+}
