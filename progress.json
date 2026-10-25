@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:44:07.393Z",
+  "generated_at": "2026-10-25T12:44:09.222Z",
   "items": {
     "problem:632": {
       "kind": "problem",
@@ -117,6 +117,32 @@
       "last_pushed_at": "2026-10-21T14:34:06.249Z",
       "language": "python",
       "lines": 69
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2026-10-25T11:07:10.928Z",
+      "last_pushed_at": "2026-10-25T11:07:10.928Z",
+      "language": "python",
+      "lines": 51
+    },
+    "problem:391": {
+      "kind": "problem",
+      "id": "391",
+      "title": "Implement Grouped Query Attention (GQA)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/391",
+      "path": "problems/0391-implement-grouped-query-attention-gqa",
+      "first_solved_at": "2026-10-25T12:40:14.687Z",
+      "last_pushed_at": "2026-10-25T12:40:14.687Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }

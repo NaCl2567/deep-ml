@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**11** solved · 11 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,9 +15,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Unified Task Handler for Multi-Task RL Agent](https://www.deep-ml.com/problems/554) | easy | 2026-10-20 | [solution](problems/0554-unified-task-handler-for-multi-task-rl-agent) |
 | [Alpha-Beta Pruning Implementation](https://www.deep-ml.com/problems/632) | medium | 2026-10-19 | [solution](problems/0632-alpha-beta-pruning-implementation) |
 | [Continuous Batching (In-Flight Batching) Simulator](https://www.deep-ml.com/problems/425) | medium | 2026-10-21 | [solution](problems/0425-continuous-batching-in-flight-batching-simulator) |
+| [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-10-25 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-10-19 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-19 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-19 | [solution](problems/0192-implement-the-huber-loss-function) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-25 | [solution](problems/0017-k-means-clustering) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-10-19 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-19 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implementing PagedAttention: Block-wise Attention Computation](https://www.deep-ml.com/problems/492) | hard | 2026-10-19 | [solution](problems/0492-implementing-pagedattention-block-wise-attention-computation) |
