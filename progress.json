@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T06:39:14.683Z",
+  "generated_at": "2026-10-26T08:32:15.360Z",
   "items": {
     "problem:632": {
       "kind": "problem",
@@ -182,6 +182,19 @@
       "last_pushed_at": "2026-10-26T06:39:13.967Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:806": {
+      "kind": "problem",
+      "id": "806",
+      "title": "CART Recursive Tree Builder",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/806",
+      "path": "problems/0806-cart-recursive-tree-builder",
+      "first_solved_at": "2026-10-26T08:32:14.165Z",
+      "last_pushed_at": "2026-10-26T08:32:14.165Z",
+      "language": "python",
+      "lines": 97
     }
   }
 }
