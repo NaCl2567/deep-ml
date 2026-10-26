@@ -12,19 +12,17 @@ def apply_rope(x: np.ndarray, positions: np.ndarray, base: float = 10000.0) -> n
     Returns:
         Embeddings with rotary positional encoding applied, shape (seq_len, d)
     """
-    # if x.shape[0] <= 1:
-    #     return x
-    # Your code here
     seq_len, d = x.shape[0], x.shape[1]
     x_1, x_2 = x[:, ::2], x[:, 1::2]
-    theta = np.array([1 / np.power(base, 2 * i / d) for i in range(d // 2)])
-    # positions_1, positions_2 = np.array(positions[::2]), np.array(positions[1::2])
+    half = d // 2
+    theta = base ** (-np.arange(half) * 2.0 / d) 
+    pt = np.outer(positions, theta)  # seq_len, d // 2
 
-    pt = positions[:, None] @ theta[None, :]    # seq_len, d // 2
+    y_1, y_2 = np.cos(pt) * x_1 - np.sin(pt) * x_2, np.sin(pt) * x_1 + np.cos(pt) * x_2
 
-    x_1, x_2 = np.cos(pt) * x_1 - np.sin(pt) * x_2, np.sin(pt) * x_1 + np.cos(pt) * x_2
-
-    return np.concatenate([np.concatenate([x_1[:, i:i+1], x_2[:, i:i+1]], axis=1) for i in range(d//2)], axis=1)
-
+    out = np.empty_like(x)
+    out[:, ::2] = y_1
+    out[:, 1::2] = y_2
+    return out
 
     pass
