@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T08:32:15.360Z",
+  "generated_at": "2026-10-26T08:37:48.044Z",
   "items": {
     "problem:632": {
       "kind": "problem",
@@ -192,9 +192,9 @@
       "url": "https://www.deep-ml.com/problems/806",
       "path": "problems/0806-cart-recursive-tree-builder",
       "first_solved_at": "2026-10-26T08:32:14.165Z",
-      "last_pushed_at": "2026-10-26T08:32:14.165Z",
+      "last_pushed_at": "2026-10-26T08:37:35.960Z",
       "language": "python",
-      "lines": 97
+      "lines": 94
     }
   }
 }
