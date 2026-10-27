@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 16 problems · 0 labs · 2 math
+**19** solved · 17 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-10-26 | [solution](problems/0104-binary-classification-with-logistic-regression) |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-10-27 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Unified Task Handler for Multi-Task RL Agent](https://www.deep-ml.com/problems/554) | easy | 2026-10-20 | [solution](problems/0554-unified-task-handler-for-multi-task-rl-agent) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-27 | [solution](problems/0121-vector-element-wise-sum) |
 | [Alpha-Beta Pruning Implementation](https://www.deep-ml.com/problems/632) | medium | 2026-10-19 | [solution](problems/0632-alpha-beta-pruning-implementation) |
