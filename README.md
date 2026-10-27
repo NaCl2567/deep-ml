@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 15 problems · 0 labs · 0 math
+**16** solved · 15 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-10-19 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-19 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implementing PagedAttention: Block-wise Attention Computation](https://www.deep-ml.com/problems/492) | hard | 2026-10-19 | [solution](problems/0492-implementing-pagedattention-block-wise-attention-computation) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-27 | [solution](math/0007-vector-operations) |
 
 ---
 
